@@ -37,7 +37,7 @@
     "lodash": "^4.17.21",
     "openai": "^4.28.0",
     "qs": "^6.11.2",
-    "rollup": "^4.13.0",
+    "rollup": "^4.41.0",
     "rollup-plugin-typescript2": "^0.36.0",
     "supports-color": "^9.4.0",
     "typia": "^6.3.1",
