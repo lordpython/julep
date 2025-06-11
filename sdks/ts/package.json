@@ -35,7 +35,7 @@
     "follow-redirects": "^1.15.5",
     "formdata-node": "^6.0.3",
     "lodash": "^4.17.21",
-    "openai": "^4.28.0",
+    "openai": "^4.100.0",
     "qs": "^6.11.2",
     "rollup": "^4.13.0",
     "rollup-plugin-typescript2": "^0.36.0",
