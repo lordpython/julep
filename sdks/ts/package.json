@@ -34,7 +34,7 @@
     "dotenv": "^16.4.5",
     "follow-redirects": "^1.15.5",
     "formdata-node": "^6.0.3",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "openai": "^4.28.0",
     "qs": "^6.11.2",
     "rollup": "^4.13.0",
